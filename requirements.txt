@@ -1,6 +1,0 @@
-Flask==2.0.1
-twilio==7.8.0
-tweepy==4.8.0
-google-cloud-secret-manager==2.7.0
-google-cloud-aiplatform==1.12.1
-APScheduler==3.7.0
